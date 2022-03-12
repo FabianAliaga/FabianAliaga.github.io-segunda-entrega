@@ -15,7 +15,9 @@ h1{
 
 .nav-link{
     text-align: center;
+    text-size-adjust: 8px;
 }
+
 
 @media screen and (min-device-width: 320px){
   
